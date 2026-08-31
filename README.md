@@ -1,2 +1,9 @@
-# andrewchapin747.github.io
-Public portfolio site
+# templatesite
+
+Minimal multi-page GitHub Pages site.
+
+Pages:
+
+- `index.html`
+- `projects.html`
+- `contact.html`
